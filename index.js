@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('anda cuidado mk, AJAJJJA le gusta el pito')
+    alert('Uy de una, escribe por whatsapp')
 });
 
 const noBtn = document.querySelector('#noBtn');
